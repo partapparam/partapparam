@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Param Singh</h1>
+<h1 align="center">Hi 👋, I'm Parampartap "Param"</h1>
 <h3 align="center">A passionate, self-taught full-stack software engineer looking for my first job as an engineer after a successful 6 years in Enterprise Sales</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partapparam&label=Profile%20views&color=0e75b6&style=flat" alt="partapparam" /> </p>
