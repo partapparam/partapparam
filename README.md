@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Parampartap "Param"</h1>
-<h3 align="center">A passionate, self-taught full-stack software engineer looking for my first job as an engineer after a successful 6 years in Enterprise Sales</h3>
+### A passionate, self-taught full-stack software engineer looking for my first job as an engineer after a successful 6 years in Sales. In the past 2 years, I began my learning journey and built projects in React, Node, and Python, I also managed to:
+- _Hit 201% of my quota_, 
+- _Signed my company's largest US client and 3 out of the top 10_
+- _Signed $1.1m in ARR_
+- </h3>
+### Now it's time to follow my passions and become an engineer
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partapparam&label=Profile%20views&color=0e75b6&style=flat" alt="partapparam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=partapparam" alt="partapparam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/partaphere" target="blank"><img src="https://img.shields.io/twitter/follow/partaphere?logo=twitter&style=for-the-badge" alt="partaphere" /></a> </p>
+
+<a href="https://twitter.com/partaphere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://dev.to/partapparam"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 
 - 🌱 I’m currently learning **CI/CD and Containerization**
 
