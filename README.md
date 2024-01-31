@@ -8,21 +8,9 @@
 - _Hit 201% of my quota_, 
 - _Signed my company's largest US client and 3 out of the top 10_
 - _Signed $1.1m in ARR_
-<br />
-<br />
 
-### Now it's time to follow my passions and become an engineer
+#### So what I'm saying is, it's time to follow my passions and become an engineer full-time.
 
-<br />
-<br />
-
-
-<a href="https://twitter.com/partaphere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dev.to/partapparam"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parampartapsingh1961/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" alt=LinkedIn /> </a>
-
-<br />
-<br />
 
 - 🌱 I’m currently learning **CI/CD and Containerization** and **Data Structures**
 
@@ -31,6 +19,13 @@
 - 💬 Ask me about **react, node, express, python, flask**
 
 - 📫 How to reach me **paramsingh1961@gmail.com**
+
+##### Where to find me:
+
+<a href="https://twitter.com/partaphere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://dev.to/partapparam"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parampartapsingh1961/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" alt=LinkedIn /> </a>
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
