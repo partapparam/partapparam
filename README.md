@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parampartap "Param"</h1>
+## Hi 👋, I'm Parampartap "Param"
 ### A passionate, self-taught full-stack software engineer looking for my first job as an engineer after a successful 6 years in Sales. In the past 2 years, I began my learning journey and built projects in React, Node, and Python, I also managed to:
 - _Hit 201% of my quota_, 
 - _Signed my company's largest US client and 3 out of the top 10_
