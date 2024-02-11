@@ -23,7 +23,7 @@
 
 <a href="https://twitter.com/partaphere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/partapparam"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parampartapsingh1961/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" alt=LinkedIn /> </a>
+<a href="https://www.linkedin.com/in/parampartapsingh1961/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" alt=LinkedIn /> </a>
 
 <br />
 
