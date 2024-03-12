@@ -11,13 +11,11 @@
 #### So what I'm saying is, it's time to follow my passions and become an engineer full-time.
 
 
-- 🌱 I’m currently learning **CI/CD and Containerization** and **Data Structures**
+- 🌱 I’m currently learning **building AI Agents with LangChain** and **Data Structures**
 
 - 🤝 I’m looking for help with **finding a job!**
 
 - 💬 Ask me about **react, node, express, python, flask**
-
-- 📫 How to reach me **paramsingh1961@gmail.com**
 
 ##### Where to find me:
 
