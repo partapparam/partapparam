@@ -2,7 +2,7 @@
 <br />
 
 ## Hi 👋, I'm Param
-### A passionate, self-taught full-stack software engineer looking for my first job as an engineer after a successful 6 years in Sales. 
+### A passionate, self-taught full-stack data engineer looking for my first job as an engineer after a successful 6 years in Sales. 
 ##### 2 years ago, I began my learning journey and started building projects in React, Node, and Python at night, while managing to:
 - _Hit 201% of my quota_, 
 - _Signed my company's largest US client and 3 out of the top 10_
@@ -11,11 +11,11 @@
 #### So what I'm saying is, it's time to follow my passions and become an engineer full-time.
 
 
-- 🌱 I’m currently learning **building AI Agents with LangChain** and **Data Structures**
+- 🌱 I’m currently learning **building AI Agents with LangChain** and GitHub-Actions
 
 - 🤝 I’m looking for help with **finding a job!**
 
-- 💬 Ask me about **react, node, express, python, flask**
+- 💬 Ask me about **react, node, python, flask**
 
 ##### Where to find me:
 
@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-
 </div>
 
 <br />
