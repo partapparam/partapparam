@@ -2,7 +2,7 @@
 <br />
 
 ## Hi 👋, I'm Param
-### A passionate, self-taught full-stack data engineer looking for my first job as an engineer after a successful 6 years in Sales. 
+### A passionate, self-taught full-stack data engineer searching for a full-time role as an engineer after a successful 6 years in Sales. 
 ##### 2 years ago, I began my learning journey and started building projects in React, Node, and Python at night, while managing to:
 - _Hit 201% of my quota_, 
 - _Signed my company's largest US client and 3 out of the top 10_
