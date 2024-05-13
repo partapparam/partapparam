@@ -2,7 +2,7 @@
 <br />
 
 ## Hi 👋, I'm Param
-### A passionate, self-taught full-stack data engineer and 6 years of experience in sales.
+### A passionate, self-taught full-stack data engineer with 6 years of experience in sales.
 
 - 🌱 I’m currently learning **building AI Agents with LangChain** and GitHub-Actions
 
