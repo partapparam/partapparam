@@ -4,7 +4,7 @@
 ## Hi 👋, I'm Param
 ### A passionate, self-taught full-stack data engineer with 6 years of experience in sales.
 
-- 🌱 I’m currently learning **building AI Agents with LangChain** and GitHub-Actions
+- 🌱 I’m currently learning about **building AI Agents with LangChain** and diving into the world of **CI/CD with GitHub Actions**
 
 - 🤝 I’m looking for help with **finding a job!**
 
