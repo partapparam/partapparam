@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning about **building AI Agents with LangChain** and diving into the world of **CI/CD with GitHub Actions**
 
+- I'm building my first React Native App! 
+
 - 💬 Ask me about **react, node, python, langchain**
 
 ##### Where to find me:
